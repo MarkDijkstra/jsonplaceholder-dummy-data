@@ -2,7 +2,7 @@
 
 # jsonplaceholder-dummy-data
 
-Basic package which shows random json data with less code pulled from jsonplaceholder.typicode.com
+Basic package which shows random json data with less code pulled from [https://jsonplaceholder.typicode.com](https://jsonplaceholder.typicode.com)
 
 ### How to use
 
@@ -24,6 +24,3 @@ jsonplaceholder_dummy_data.get('/posts', LIMIT_VALUE).then(function(data){
 * /photos	(5000 photos)
 * /todos    (200 todos)
 * /users	(10 users)
-
-
-
