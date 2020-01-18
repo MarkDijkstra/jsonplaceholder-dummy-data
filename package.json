@@ -1,19 +1,20 @@
 {
-  "name": "@markdijkstra/random-dummy-data-generator",
-  "version": "0.0.1",
-  "description": "Random dummy data generator helper to write less code",
+  "name": "@markdijkstra/jsonplaceholder-dummy-data",
+  "version": "1.0.0",
+  "description": "Basic package which shows random dummy data with less code pulled from jsonplaceholder.typicode.com",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/MarkDijkstra/random-dummy-data-generator.git"
+    "url": "https://github.com/MarkDijkstra/jsonplaceholder-dummy-data.git"
   },
   "keywords": [
     "npm",
     "dummy",
-    "data"
+    "data",
+    "json"
   ],
   "author": "Mark Dijkstra",
   "licenses": [
@@ -23,7 +24,7 @@
     }
   ],
   "bugs": {
-    "url": "https://github.com/MarkDijkstra/random-dummy-data-generator/issues"
+    "url": "https://github.com/MarkDijkstra/jsonplaceholder-dummy-data/issues"
   },
-  "homepage": "https://github.com/MarkDijkstra/random-dummy-data-generator#readme"
+  "homepage": "https://github.com/MarkDijkstra/jsonplaceholder-dummy-data#readme"
 }

@@ -1,10 +1,12 @@
-# random-dummy-data-generator
+![npm](https://img.shields.io/npm/v/@markdijkstra/jsonplaceholder-dummy-data)
 
-Basic package which shows random dummy data with less code.
+# jsonplaceholder-dummy-data
+
+Basic package which shows random dummy data with less code pulled from jsonplaceholder.typicode.com
 
 ### How to use
 
-`random_dummy_data_generator.get('/posts', LIMIT_VALUE).then(function(data){
+`jsonplaceholder_dummy_data.get('/posts', LIMIT_VALUE).then(function(data){
    console.log(data);
 });`
 

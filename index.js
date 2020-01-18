@@ -1,4 +1,4 @@
-module.exports = class random_dummy_data_generator{
+module.exports = class jsonplaceholder_dummy_data{
     static get(route, limit)
     {
         if (typeof route === "undefined" || typeof route !== 'string') {
