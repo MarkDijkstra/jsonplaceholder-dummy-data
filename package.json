@@ -17,12 +17,7 @@
     "json"
   ],
   "author": "Mark Dijkstra",
-  "licenses": [
-    {
-      "type": "MIT",
-      "url": "http://www.apache.org/licenses/LICENSE-2.0.html"
-    }
-  ],
+  "license": "(MIT OR Apache-2.0)",
   "bugs": {
     "url": "https://github.com/MarkDijkstra/jsonplaceholder-dummy-data/issues"
   },
