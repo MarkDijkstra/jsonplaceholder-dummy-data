@@ -1,6 +1,8 @@
-![npm](https://img.shields.io/npm/v/@markdijkstra/jsonplaceholder-dummy-data)
-
 # jsonplaceholder-dummy-data
+
+![npm](https://img.shields.io/npm/v/@markdijkstra/jsonplaceholder-dummy-data)
+![NPM](https://img.shields.io/npm/l/@markdijkstra/jsonplaceholder-dummy-data)
+![GitHub issues](https://img.shields.io/github/issues/MarkDijkstra/jsonplaceholder-dummy-data)
 
 Basic package which shows random json data with less code pulled from [https://jsonplaceholder.typicode.com](https://jsonplaceholder.typicode.com)
 
