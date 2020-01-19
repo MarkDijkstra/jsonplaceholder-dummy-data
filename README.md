@@ -6,6 +6,14 @@
 
 Basic package which shows random json data with less code pulled from [https://jsonplaceholder.typicode.com](https://jsonplaceholder.typicode.com)
 
+
+### How install
+
+
+```npm
+npm i @markdijkstra/jsonplaceholder-dummy-data
+```
+
 ### How to use
 
 ```
