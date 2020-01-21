@@ -4,6 +4,7 @@
 ![NPM](https://img.shields.io/npm/l/@markdijkstra/jsonplaceholder-dummy-data)
 ![GitHub issues](https://img.shields.io/github/issues/MarkDijkstra/jsonplaceholder-dummy-data)
 ![CircleCI](https://img.shields.io/circleci/build/github/MarkDijkstra/jsonplaceholder-dummy-data)
+![Website](https://img.shields.io/website?url=https%3A%2F%2Fjsonplaceholder.typicode.com%2F)
 
 Basic package which shows random json data with less code pulled from [https://jsonplaceholder.typicode.com](https://jsonplaceholder.typicode.com)
 
@@ -18,7 +19,9 @@ npm i @markdijkstra/jsonplaceholder-dummy-data
 ### How to use
 
 ```
-jsonplaceholder_dummy_data.get('/posts', LIMIT_VALUE).then(function(data){
+import {jsonplaceholderDummyData} from '@markdijkstra/jsonplaceholder-dummy-data'
+
+jsonplaceholderDummyData.get('/posts', LIMIT_VALUE).then(function(data){
    console.log(data);
 });
 ```

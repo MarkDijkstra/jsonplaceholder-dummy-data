@@ -1,4 +1,4 @@
-module.exports = class jsonplaceholder_dummy_data{
+module.exports = class jsonplaceholderDummyData{
     static get(route, limit)
     {
         if (typeof route === "undefined" || typeof route !== 'string') {
